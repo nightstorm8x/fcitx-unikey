@@ -85,7 +85,7 @@ static const unsigned char WordBreakSyms[] =
     ',', ';', ':', '.', '\"', '\'', '!', '?', ' ',
     '<', '>', '=', '+', '-', '*', '/', '\\',
     '_', '~', '`', '@', '#', '$', '%', '^', '&', '(', ')', '{', '}', '[', ']',
-    '|'
+    '|', 'j'
 };
 
 static const unsigned char WordAutoCommit[] =
